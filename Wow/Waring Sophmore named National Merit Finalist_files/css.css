@@ -1,0 +1,36 @@
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik Light Italic"), local("Rubik-LightItalic"), url(https://fonts.gstatic.com/s/rubik/v8/iJWBBXyIfDnIV7nEldWYwWL-7w.woff) format("woff");
+	font-weight: 300;
+	font-style: italic;
+}
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik Italic"), local("Rubik-Italic"), url(https://fonts.gstatic.com/s/rubik/v8/iJWEBXyIfDnIV7nEnX660g.woff) format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik Light"), local("Rubik-Light"), url(https://fonts.gstatic.com/s/rubik/v8/iJWHBXyIfDnIV7Fqj2md8WY.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik"), local("Rubik-Regular"), url(https://fonts.gstatic.com/s/rubik/v8/iJWKBXyIfDnIV7nBrXo.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik Medium"), local("Rubik-Medium"), url(https://fonts.gstatic.com/s/rubik/v8/iJWHBXyIfDnIV7Eyjmmd8WY.woff) format("woff");
+	font-weight: 500;
+	font-style: normal;
+}
+@font-face {
+	font-family: Rubik;
+	src: local("Rubik Bold"), local("Rubik-Bold"), url(https://fonts.gstatic.com/s/rubik/v8/iJWHBXyIfDnIV7F6iGmd8WY.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
